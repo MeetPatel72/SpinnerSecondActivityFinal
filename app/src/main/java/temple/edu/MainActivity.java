@@ -29,6 +29,7 @@ import java.util.List;
 
 
 public class MainActivity extends AppCompatActivity {
+
     Spinner spinner;   //creating a spinner object
     String[] myColor = {"White", "Red", "Blue", "Black", "Yellow", "Green", "Gray", "Cyan", "Magenta"};  //creatting array list
     int colorIntValue;
